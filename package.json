@@ -1,0 +1,26 @@
+{
+  "name": "adv",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "fromat": "prettier --write *.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mint1122/adv.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/mint1122/adv/issues"
+  },
+  "homepage": "https://github.com/mint1122/adv#readme",
+  "devDependencies": {
+    "prettier": "^3.7.4"
+  },
+  "dependencies": {
+    "express": "^5.2.1"
+  }
+}
